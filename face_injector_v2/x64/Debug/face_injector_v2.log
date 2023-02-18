@@ -1,0 +1,10 @@
+﻿  driver.cpp
+  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Seemo\Desktop\Testing injector\face_injector_v2\api\api.h(8,36): error C2664: 'time_t time(time_t *const )': cannot convert argument 1 from 'time_t' to 'time_t *const '
+C:\Users\Seemo\Desktop\Testing injector\face_injector_v2\api\api.h(8,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(518,42): message : see declaration of 'time'
+C:\Users\Seemo\Desktop\Testing injector\face_injector_v2\api\api.h(22,36): error C2664: 'time_t time(time_t *const )': cannot convert argument 1 from 'time_t' to 'time_t *const '
+C:\Users\Seemo\Desktop\Testing injector\face_injector_v2\api\api.h(22,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(518,42): message : see declaration of 'time'
+  Generating Code...
